@@ -1,0 +1,16 @@
+body{
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.coverimg{
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    animation-timing-function: linear;
+    transition: all ease-in-out 1s;
+}
+*{
+    overflow: hidden;
+}
